@@ -11,7 +11,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 - 🤔 I’m looking for help with making presentations that help people learn for free<br/>
 - 💬 Ask me about programming and DevOps!<br/>
 - 📫 How to reach me: Email: adelekegbolahan001@gmail.com<br/>
-- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/c/adelekegbolahan001. Tech & Shopping addict :P<br/>
+- ⚡ Fun fact: I love watching sitcoms and posting videos to my channel https://www.youtube.com/@gbolahanadeleke784/. Tech & Shopping addict :P<br/>
 
 ## ⚡ Domains
 - DevOps
