@@ -60,7 +60,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 | ------------- | ------------- |
 
 ## ⚡ Top Repositories
-<a href="https://github.com/vikash-kumar01/demo-counter-app.git">
+<a href="https://github.com/adelekeofficail/demo-counter-app.git">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=adelekeofficail&repo=demo-counter-app&theme=buefy" />
 </a>
 <a href="https://github.com/vikash-kumar01/installation_scripts.git">
