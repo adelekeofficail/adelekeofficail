@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Gbolahan Adeleke. 👋🤓</h2>
-<p align="center">I'm a Full Stack Software Developer and Senior DevOps Engineer from Nigeria. TEACHING IS MY PASSION.
+<p align="center">I'm a DevOps Engineer from Nigeria. TEACHING IS MY PASSION.
 Most of the times you see me writing tutorials on various languages like Python/Go, and on DevOps tools like Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Git etc.
 When I'm not writing, you can find me watching videos on youtube, watching sitcoms, day dreaming or playing mobile games.</p>
 
@@ -56,7 +56,7 @@ When I'm not writing, you can find me watching videos on youtube, watching sitco
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kunchalavikram1427&show_icons=true&line_height=27&include_all_commits=true"/> 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kunchalavikram1427&hide=TeX&layout=compact)
  -->
- | <a href="https://github.com/adelekeofficail/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash-kumar01&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikash-kumar01&layout=compact&theme=buefy&hide_border=true" /></a> |
+ | <a href="https://github.com/adelekeofficail/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=adelekeofficail&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adelekeofficail&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ## ⚡ Top Repositories
